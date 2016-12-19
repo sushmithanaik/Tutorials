@@ -1,4 +1,0 @@
-<html>
-<p> hi ... this is my first git file.</p>
-<p>apple</p>
-</html>
