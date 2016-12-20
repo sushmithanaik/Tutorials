@@ -1,5 +1,6 @@
 <html>
 <p> hi ... this is my first git file.</p>
 <p>apple</p>
+<p>added a new line</p>
 </p>
 </html>
